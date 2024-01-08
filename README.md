@@ -60,5 +60,5 @@ I'm frontend engineer from Taipei, Taiwan.
 See [more](https://coding-shutter.blog/albums)
 
 <div align="left">
-  <img height="400" width="600 src="https://live.staticflickr.com/65535/53410416864_1c5915bc43_o.jpg"  />
+  <img height="400" width="600" src="https://live.staticflickr.com/65535/53410416864_1c5915bc43_o.jpg"  />
 </div>
