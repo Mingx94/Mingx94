@@ -36,8 +36,8 @@ I'm frontend engineer from Taipei, Taiwan.
 ## Spotify
 
 <div align="left">
-  <a href="https://open.spotify.com/user/mike54115">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mike54115&count=3&unique=false" alt="Spotify recently played"  />
+  <a href="https://github.com/rayriffy/apple-music-github-profile">
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000219.3554ae95d29548ef986922f1750a0bc9.1219" alt="Apple Music GitHub profile"  />
   </a>
 </div>
 
