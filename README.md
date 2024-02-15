@@ -33,13 +33,9 @@ I'm frontend engineer from Taipei, Taiwan.
   <img src="https://streak-stats.demolab.com?user=Mingx94&locale=en&mode=weekly&theme=nord&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
-## Spotify
+## Music
 
-<div align="left">
-  <a href="https://github.com/rayriffy/apple-music-github-profile">
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000219.3554ae95d29548ef986922f1750a0bc9.1219" alt="Apple Music GitHub profile"  />
-  </a>
-</div>
+![https://github-profile-apple-music.web.app/api/v1/users/fLqMNApYwRnVFU3r0smB/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/fLqMNApYwRnVFU3r0smB/recent/played/tracks?template=template_3_1)
 
 ## My Photos
 
