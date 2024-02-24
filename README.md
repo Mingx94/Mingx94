@@ -4,26 +4,7 @@ I'm frontend engineer from Taipei, Taiwan.
 
 ## Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img src="https://skillicons.dev/icons?i=remix" height="40" alt="remix logo"  />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <br />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <br />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+[![Skills](https://skillicons.dev/icons?i=ts,js,html,css,svelte,react,nextjs,remix,nodejs,vite,sass,tailwind,git,vscode,cs,go,rust,gitlab,github,apple,windows,ubuntu&perline=6)](https://skillicons.dev)
 
 ## GitHub Stats
 
