@@ -33,10 +33,6 @@ I'm frontend engineer from Taipei, Taiwan.
   <img src="https://streak-stats.demolab.com?user=Mingx94&locale=en&mode=weekly&theme=nord&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
-## Music
-
-![https://github-profile-apple-music.web.app/api/v1/users/fLqMNApYwRnVFU3r0smB/recent/played/tracks?template=template_3_1](https://github-profile-apple-music.web.app/api/v1/users/fLqMNApYwRnVFU3r0smB/recent/played/tracks?template=template_3_1)
-
 ## My Photos
 
 See [more](https://vartifact.cc/albums)
