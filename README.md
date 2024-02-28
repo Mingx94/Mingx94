@@ -14,6 +14,10 @@ I'm frontend engineer from Taipei, Taiwan.
   <img src="https://streak-stats.demolab.com?user=Mingx94&locale=en&mode=weekly&theme=nord&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
+## Leetcode
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/Mingx94?theme=dark&font=&extension=null)](https://leetcode.com/Mingx94/)
+
 ## My Photos
 
 See [more](https://vartifact.cc/albums)
