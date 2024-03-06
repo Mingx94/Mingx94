@@ -18,6 +18,10 @@ I'm frontend engineer from Taipei, Taiwan.
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/Mingx94?theme=dark&font=&extension=null)](https://leetcode.com/Mingx94/)
 
+## Spotify
+
+[![Spotify recent played](https://spotify-recently-played-readme.vercel.app/api?user=mike54115&count=3&unique=false)](https://open.spotify.com/user/mike54115)
+
 ## My Photos
 
 See [more](https://vartifact.cc/albums)
